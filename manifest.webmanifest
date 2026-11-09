@@ -1,0 +1,32 @@
+{
+  "name": "سوق المحاصيل — محاصيل وحبوب للبيع",
+  "short_name": "سوق المحاصيل",
+  "description": "سوق المحاصيل — ذرة وسمسم وفول وقمح بأسعار السوق مع بيان الكمية ومكان التسليم.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1206",
+  "theme_color": "#0b1206",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
