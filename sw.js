@@ -1,5 +1,5 @@
 /* سوق المحاصيل — يعمل بسرعة ويحفظ آخر نسخة من العروض للعرض بدون إنترنت */
-var CACHE = 'crops-v1';
+var CACHE = 'crops-v2';
 var CORE = ['./', './index.html', './manifest.webmanifest', './img/icon-192.png', './img/icon-512.png', './img/placeholder.svg'];
 
 self.addEventListener('install', function (e) {
